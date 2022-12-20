@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-# Zhening Zhu
+Hi. I am a second-year student majoring in computer science at University of Nottingham. I'm currently interested in software engineering, UI/UX design and games but also with motivation to learn broadly in the world of computer science. 
 
-Hi. I am a second-year student majoring in computer science at University of Nottingham. I'm currently interested in software engineering, UI/UX design and games but also with motivation to learn broadly in the world of computer science. In 3 words, I would describe myself as responsible, considerate and creative.
+In 3 words, I would describe myself as responsible, considerate and creative.
 
 [Download My CV Here](http://zheningz.github.io/files/ZheningZHU-UniversityofNottingham.pdf)
 

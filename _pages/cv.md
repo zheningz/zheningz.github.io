@@ -7,13 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Zhening Zhu
+
+Hi. I am a second-year student majoring in computer science at University of Nottingham. I'm currently interested in software engineering, UI/UX design and games but also with motivation to learn broadly in the world of computer science. In 3 words, I would describe myself as responsible, considerate and creative.
+
+[Download My CV Here](http://zheningz.github.io/files/ZheningZHU-UniversityofNottingham.pdf)
+
+<!-- {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Nottingham, 2020-2024
 
 Work experience
 ======
@@ -36,7 +40,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +56,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+<!--   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

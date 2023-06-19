@@ -5,9 +5,9 @@ collection: portfolio
 ---
 - **Key Skills**: Unity3D, C#
 - **Platform**: PC, VR (Oculus Quest 2)
-- **Description**: This is a firefighting training simulation software for Undergraduate Research Placement in University of Nottingham Ningbo China to support the study of virtual reality in education.
+- **Description**: This is a firefighting training simulator developed for personal computer and virtual reality during Undergraduate Research Placement at the University of Nottingham Ningbo China to support research on the difference of varied training platform. 
 
-## Screenshots
+## Screenshots of PC
 <img src='/images/firefight-title.jpg'>
 <img src='/images/firefight-selection.jpg'>
 <img src='/images/firefight-tutorial.jpg'>

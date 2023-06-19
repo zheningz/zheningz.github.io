@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I am a second-year student majoring in computer science at University of Nottingham. I'm currently interested in software engineering, UI/UX design and games but also with motivation to learn broadly in the world of computer science.
+Hi! I am a computer science student at the University of Nottingham. I'm currently interested in software engineering, graphics, games and mixed reality. 

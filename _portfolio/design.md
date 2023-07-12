@@ -37,4 +37,5 @@ collection: portfolio
 
 # Motion design as interest
 - PV build with Alight Motion
-- Dynamic data visualization with Powerpoint
+  <iframe src="//player.bilibili.com/player.html?aid=990758292&bvid=BV1Ex4y1M7Tc&cid=977916400&page=1" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+- Motion graphics and data visualization with Powerpoint

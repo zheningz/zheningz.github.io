@@ -31,9 +31,8 @@ collection: portfolio
 - A poster for Christmas event
 <img src='/images/poster-xmas.jpg'>
 
-# Package design as interest
-- A poster for package design competition for KitKat. The package design underwent a meticulous process that involved target research, initial hand-drafting, subsequent digitalization in 2D, and transformed into a 3D model.
-<img src='/images/poster-kitkat.jpg'>
+# Shader
+[Just started playing with shaders](https://www.shadertoy.com/user/DoubleCheeze)
 
 # Motion design as interest
 - PV build with Alight Motion
@@ -41,3 +40,7 @@ collection: portfolio
     <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=990758292&bvid=BV1Ex4y1M7Tc&cid=977916400&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
   </div>
 - Motion graphics and data visualization with Powerpoint
+
+# Package design as interest
+- A poster for package design competition for KitKat. The package design underwent a meticulous process that involved target research, initial hand-drafting, subsequent digitalization in 2D, and transformed into a 3D model.
+<img src='/images/poster-kitkat.jpg'>

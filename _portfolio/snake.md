@@ -1,10 +1,8 @@
 ---
 title: "Snake"
-excerpt: "<img src='/images/snake-title.png'>"
+excerpt: "<img src='/images/snake-front.jpg'>"
 collection: portfolio
 ---
-
-<img src='/images/snake-title.png'>
 
 - **Key Skills**: Java
 - **Description**: This is a snake game project written in JavaFX as coursework. 
@@ -13,6 +11,11 @@ collection: portfolio
 
 <img src='/images/snake-options.png'>
 <img src='/images/snake-game.png'>
+
+## Demo video
+<div style="position: relative; padding: 30% 45%;">
+    <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=361316260&bvid=BV1W94y1v7ND&cid=1207482796&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+</div>
 
 ## Game rules
 

@@ -1,12 +1,14 @@
 main:
 
   - title: "Rethinking Color Precision: Real-Time Perceptual Spatial Quantization for Foveated Rendering"
-    authors: Zhening Zhu, Gordon Love, Rafael Kuffner dos Anjos
+    authors: <strong>Zhening Zhu</strong>, Gordon Love, Rafael Kuffner dos Anjos
     conference_short: EGSR
     conference: Eurographics Symposium on Rendering <strong>(EGSR)</strong>, 2026.
-    pdf: 
-    page: 
+    pdf: https://zheningz.github.io/rethinking-color-precision-project-page/paper1095_CRC.pdf
+    page: https://zheningz.github.io/rethinking-color-precision-project-page/
     bibtex: 
+    image: ./assets/img/rethinking.png
+
 
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
